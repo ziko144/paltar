@@ -1,0 +1,2 @@
+# paltar
+Global page
